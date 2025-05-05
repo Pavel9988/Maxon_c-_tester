@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/MaxonTest.dir/src/main.cpp.o CMakeFiles/MaxonTest.dir/src/maxon.cpp.o -o MaxonTest   -L/home/pavel_ubuntu22_04/Documents/VSProjects/lib  -Wl,-rpath,/home/pavel_ubuntu22_04/Documents/VSProjects/lib -lEposCmd -lftd2xx -lpthread -ldl

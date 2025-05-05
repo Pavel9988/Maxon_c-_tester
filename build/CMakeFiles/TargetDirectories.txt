@@ -1,0 +1,3 @@
+/home/pavel_ubuntu22_04/Documents/VSProjects/build/CMakeFiles/MaxonTest.dir
+/home/pavel_ubuntu22_04/Documents/VSProjects/build/CMakeFiles/edit_cache.dir
+/home/pavel_ubuntu22_04/Documents/VSProjects/build/CMakeFiles/rebuild_cache.dir
